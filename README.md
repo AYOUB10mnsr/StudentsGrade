@@ -24,7 +24,7 @@ This Java project allows a teacher to enter students’ grades, calculate their 
 ## 🗂️ Project Structure
 
 StudentGrades/
-├── Eleve.java # Class representing a student with their grades
+├── Eleve.java # Class representing a student with their grades             
 └── GestionNotes.java # Main class handling input, calculations, and output
 
 
