@@ -26,3 +26,15 @@ This Java project allows a teacher to enter students’ grades, calculate their 
 StudentGrades/
 ├── Eleve.java # Class representing a student with their grades
 └── GestionNotes.java # Main class handling input, calculations, and output
+
+
+---
+
+## ▶️ How to Run
+
+### 1. Compile:
+```bash
+javac Eleve.java GestionNotes.java
+
+java GestionNotes
+
